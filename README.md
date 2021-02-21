@@ -1,3 +1,3 @@
 # Kokoa clone 2021
 
-CSS got so much better
+Programming languages are so much fun!
